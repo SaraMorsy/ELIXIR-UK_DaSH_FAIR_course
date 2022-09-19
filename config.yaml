@@ -70,13 +70,10 @@ instructors:
 profiles:
 
 # Customisation ---------------------------------------------
-<<<<<<< HEAD
-
 =======
 #
 # This space below is where custom yaml items (e.g. pinning
 # sandpaper and varnish versions) should live
->>>>>>> 72a24498be0ae37a41b0b8e3ee90a40c30eee171
 varnish: SaraMorsy/varnish
 
 
