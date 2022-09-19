@@ -8,16 +8,16 @@
 # lc: Library Carpentry
 # cp: Carpentries (to use for instructor training for instance)
 # incubator: The Carpentries Incubator
-carpentry: incubator
+carpentry: dc
 
 # Overall title for pages.
-title: Lesson Title
+title: FAIR Data in the Life Sciences
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
 created: ~
 
 # Comma-separated list of keywords for the lesson
-keywords: software, data, lesson, The Carpentries
+keywords: FAIR, data, lesson, The Carpentries
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
@@ -70,7 +70,13 @@ instructors:
 profiles:
 
 # Customisation ---------------------------------------------
+<<<<<<< HEAD
 
+=======
+#
+# This space below is where custom yaml items (e.g. pinning
+# sandpaper and varnish versions) should live
+>>>>>>> 72a24498be0ae37a41b0b8e3ee90a40c30eee171
 varnish: SaraMorsy/varnish
 
 
