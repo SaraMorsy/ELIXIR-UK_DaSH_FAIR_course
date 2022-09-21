@@ -9,9 +9,9 @@ Data descriptions are called termed metadata, and their  relationship between me
 
 
 
-::: Exercise
+::: challenge
 Look at the metadata in blue above.  What could be done better?
-::: Solutions
+::: Solution
 In terms of the column headings, these look pretty complete although patients will have many genotypes, so describing the genotype using its unique ID would be advised (e.g. rs1333049).  Additionally, spaces in column names could be replaced with underscores to aid scripting using the data.  FOr example, **“PATIENT ID” → “PATIENT_ID”**
 Additional metadata can be added for provenance and general descriptions.  For example, more information about the cohort name is required because “Human Welsh Cohort” does tell us much in the context of other existing Welsh cohorts.  Here we would look to include a unique ID or unique working title for the cohort, or a project URL describing its origin and makeup.  
 :::
@@ -37,16 +37,16 @@ FAIR is an acronym relating to a “thing” that is made Findable, Accessible, 
 
 FAIR itself was then formalised and published in 2016 in FAIR Guiding Principles for scientific data management and stewardship.
 
-:::: Challenge 
+:::: challenge
 Read page 11 of the European Commission report.  What benefit did the FORCE11 Working Group see to coining the word FAIR? 
-:::: Solution
+:::: solution
 The report states: “a FORCE11 Working Group coined the FAIR data definition, latching onto an arresting and rhetorically useful acronym. The word play with fairness, in the sense of equity and justice, has also been eloquent in communicating the idea that FAIR data serves the best interests of the research community and the advancement of science as a public enterprise that benefits society. ”
 ::::
 ::::
 
-:::: Challenge 
+:::: challenge 
 FAIR isn’t limited to data. From the same report, what other examples of “objects” can be made FAIR? https://zenodo.org/record/1285272#.Yuk8O_HMIqt
-:::: Solution
+:::: solution
 On page 15, the report states: “FAIR should be applied broadly to all objects (including metadata, identifiers, software and
 DMPs) that are essential to the practice of research, and should inform metrics relating directly to these objects.”  Noting that DMPs are “data management plans”.
 ::::
@@ -57,7 +57,6 @@ FAIR is now everywhere and used commonly in the arena of funded research.  To il
 
 ::: callout
 **Further reading demonstrating the benefits of FAIR**
-
 (A European Commission report in 2018)[https://op.europa.eu/en/publication-detail/-/publication/d375368c-1a0a-11e9-8d04-01aa75ed71a1/language-en], considers the detrimental effects of not complying with FAIR principles and details the negative impact on research activities, collaboration, and innovation. 
 (EMBL-EBI report in 2020)[https://op.europa.eu/en/publication-detail/-/publication/d375368c-1a0a-11e9-8d04-01aa75ed71a1/language-en] shows how data sharing enabled the excelleration of COVID-19 research to meet the challenges of the pandemic.
 :::
