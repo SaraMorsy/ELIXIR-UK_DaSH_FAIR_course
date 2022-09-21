@@ -22,4 +22,8 @@ The course is written in 2 parts and serves to complement longer training course
 
 This is a basic course and no prior knowledge is necessary.
 
+::::::::::::::::::::::: challenge
+Hi there
+:::::::::::::::::::::::
+
 
